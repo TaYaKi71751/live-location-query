@@ -1,0 +1,22 @@
+{
+  "name": "live-location-query",
+  "main": "dist/index.js",
+  "scripts":{
+    "build":"tsc --clean --build"
+  },
+  "version": "0.0.0",
+  "author": "TaYaKi71751",
+  "license": "WTFPL",
+  "devDependencies": {
+    "@types/node": "^18.7.16",
+    "@typescript-eslint/eslint-plugin": "^5.36.2",
+    "@typescript-eslint/parser": "^5.36.2",
+    "eslint": "^8.0.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.3"
+  }
+}

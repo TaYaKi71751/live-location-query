@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES3",
+    "outDir": "./dist",
+    "allowJs": true,
+    "moduleResolution": "node",
+				"esModuleInterop": true
+		}
+}
